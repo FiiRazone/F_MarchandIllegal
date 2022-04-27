@@ -1,5 +1,4 @@
 # F_MarchandIllegal
-[RAGEUI V3] Script shop illegal weapons 
 
 RAGEUI V3
 
